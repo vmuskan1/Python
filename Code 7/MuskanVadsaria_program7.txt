@@ -1,0 +1,139 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=================== RESTART: H:\MuskanVadsaria_Program7.py ===================
+52500.00
+your pay right now is: $52500.0
+Your pay will raise to: 7%
+your pay after raise: $3,675.00
+Now your pay will be, $56,175.00
+
+64029.50
+Your pay right now is: $64029.5
+Your pay will raise to: 4%
+your pat after raise: $2,561.18
+Now your pay will be, $66,590.68
+
+56000.00
+your pay right now is: $56000.0
+Your pay will raise to: 7%
+your pay after raise: $3,920.00
+Now your pay will be, $59,920.00
+
+50001.00
+your pay right now is: $50001.0
+Your pay will raise to: 7%
+your pay after raise: $3,500.07
+Now your pay will be, $53,501.07
+
+65500.00
+Your pay right now is: $65500.0
+Your pay will raise to: 4%
+your pat after raise: $2,620.00
+Now your pay will be, $68,120.00
+
+42800.00
+your pay right now is: $42800.0
+Your pay will raise to:5.5%
+your pay after raise: $2,354.00
+Now your pay will be, $45,154.00
+
+45000.50
+your pay right now is: $45000.5
+Your pay will raise to:5.5%
+your pay after raise: $2,475.03
+Now your pay will be, $47,475.53
+
+68900.00
+Your pay right now is: $68900.0
+Your pay will raise to: 4%
+your pat after raise: $2,756.00
+Now your pay will be, $71,656.00
+
+60000.00
+your pay right now is: $60000.0
+Your pay will raise to: 7%
+your pay after raise: $4,200.00
+Now your pay will be, $64,200.00
+
+59999.94
+your pay right now is: $59999.94
+Your pay will raise to: 7%
+your pay after raise: $4,200.00
+Now your pay will be, $64,199.94
+
+54120.25
+your pay right now is: $54120.25
+Your pay will raise to: 7%
+your pay after raise: $3,788.42
+Now your pay will be, $57,908.67
+
+64100.00
+Your pay right now is: $64100.0
+Your pay will raise to: 4%
+your pat after raise: $2,564.00
+Now your pay will be, $66,664.00
+
+44000.50
+your pay right now is: $44000.5
+Your pay will raise to:5.5%
+your pay after raise: $2,420.03
+Now your pay will be, $46,420.53
+
+80100.20
+Your pay right now is: $80100.2
+Your pay will raise to: 4%
+your pat after raise: $3,204.01
+Now your pay will be, $83,304.21
+
+90000.00
+Your pay right now is: $90000.0
+Your pay will raise to: 4%
+your pat after raise: $3,600.00
+Now your pay will be, $93,600.00
+
+41000.00
+your pay right now is: $41000.0
+Your pay will raise to:5.5%
+your pay after raise: $2,255.00
+Now your pay will be, $43,255.00
+
+60500.50
+Your pay right now is: $60500.5
+Your pay will raise to: 4%
+your pat after raise: $2,420.02
+Now your pay will be, $62,920.52
+
+72000.00
+Your pay right now is: $72000.0
+Your pay will raise to: 4%
+your pat after raise: $2,880.00
+Now your pay will be, $74,880.00
+
+50000.01
+your pay right now is: $50000.01
+Your pay will raise to: 7%
+your pay after raise: $3,500.00
+Now your pay will be, $53,500.01
+
+50000.00
+your pay right now is: $50000.0
+Your pay will raise to:5.5%
+your pay after raise: $2,750.00
+Now your pay will be, $52,750.00
+
+80001.75
+Your pay right now is: $80001.75
+Your pay will raise to: 4%
+your pat after raise: $3,200.07
+Now your pay will be, $83,201.82
+
+60001.00
+Your pay right now is: $60001.0
+Your pay will raise to: 4%
+your pat after raise: $2,400.04
+Now your pay will be, $62,401.04
+
+Total Faculty payroll before the raise is $1,310,555.15
+Total Faculty payroll after the raise is $1,377,798.01
+>>> 
