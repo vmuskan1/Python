@@ -1,0 +1,29 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Muskan Vadsaria\Desktop\College\Computer science\Program11.py 
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Eleven
+
+Enter a year in the range 1903-2018: 1903
+The team that won the world series in 1903 is the Boston Americans.
+They have won the world series 1 times.
+
+Enter a year in the range 1903-2018: 1994
+The world series wasn't played in the year 1994
+
+Enter a year in the range 1903-2018: 2009
+The team that won the world series in 2009 is the New York Yankees.
+They have won the world series 27 times.
+
+Enter a year in the range 1903-2018: 2016
+The team that won the world series in 2016 is the Chicago Cubs.
+They have won the world series 3 times.
+
+Enter a year in the range 1903-2018: 2018
+The team that won the world series in 2018 is the Boston Red Sox.
+They have won the world series 8 times.
+
+Enter a year in the range 1903-2018: 0
+>>> 
