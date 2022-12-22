@@ -1,0 +1,54 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+==================== RESTART: H:\Chapter two\program 4.py ====================
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Four
+
+Enter your ID number: 1001
+Enter your hourly pay rate: 10.00
+Enter the Total #'s of Hours you worked: 35
+Regular hours:  35
+Overtime hours:  0
+Total hours:  35
+Regular Pay: $350.00
+Overtime Pay: $0.00
+Gross Pay: $350.00
+Deduction: $25.00
+Net Pay: $325.00
+>>> 
+==================== RESTART: H:\Chapter two\program 4.py ====================
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Four
+
+Enter your ID number: 2002
+Enter your hourly pay rate: 35.50
+Enter the Total #'s of Hours you worked: 40
+Regular hours:  40
+Overtime hours:  0
+Total hours:  40
+Regular Pay: $1,420.00
+Overtime Pay: $0.00
+Gross Pay: $1,420.00
+Deduction: $174.10
+Net Pay: $1,245.90
+>>> 
+==================== RESTART: H:\Chapter two\program 4.py ====================
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Four
+
+Enter your ID number: 3003
+Enter your hourly pay rate: 10.50
+Enter the Total #'s of Hours you worked: 50
+Regular hours:  40
+Overtime hours:  10
+Total hours:  50
+Regular Pay: $420.00
+Overtime Pay: $157.50
+Gross Pay: $577.50
+Deduction: $25.00
+Net Pay: $552.50
+>>> 
