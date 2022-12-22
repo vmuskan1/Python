@@ -1,0 +1,27 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+==================== RESTART: H:\Chapter two\program2.py ====================
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Two
+
+ Enter your score for test1 = 40
+ Enter your score for test2 = 80
+ Enter your score for test3 = 97
+ Enter your score for test4 = 32
+ Enter your score for test5 = 87
+Your average test score is  67.2
+>>> 
+==================== RESTART: H:\Chapter two\program2.py ====================
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Two
+
+ Enter your score for test1 = 60
+ Enter your score for test2 = 90
+ Enter your score for test3 = 100
+ Enter your score for test4 = 99
+ Enter your score for test5 = 95
+Your average test score is  88.8
+>>> 
