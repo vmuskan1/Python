@@ -1,0 +1,15 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Muskan Vadsaria\Desktop\College\Computer science\MuskanVadsaria_program9.py 
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Nine
+
+Data of rainfall in inches for entire year: [1.89, 1.99, 2.14, 2.51, 5.03, 3.81, 1.97, 2.31, 2.91, 3.97, 2.68, 2.44]
+
+Total rainfall :  33.65
+Average Rainfall :  2.80
+Highest Rainfall : May with 5.03 inches
+Lowst Rainfall:  January with 1.89 inches
+>>> 
