@@ -1,0 +1,33 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Muskan Vadsaria\Desktop\College\Computer science\Program 5.py 
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Five
+
+Enter the number of  units sold : 5
+you don't meet the quota
+Total saving due to discount is: $0.00
+The total cost of the purchase is: $0.00
+>>> 
+ RESTART: C:\Users\Muskan Vadsaria\Desktop\College\Computer science\Program 5.py 
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Five
+
+Enter the number of  units sold : 59
+discount applied is: 35 %
+Total saving due to discount is: $2,044.35
+The total cost of the purchase is: $3,796.65
+>>> 
+ RESTART: C:\Users\Muskan Vadsaria\Desktop\College\Computer science\Program 5.py 
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Five
+
+Enter the number of  units sold : 110
+discount applied is: 50 %
+Total saving due to discount is: $5,445.00
+The total cost of the purchase is: $5,445.00
+>>> 
