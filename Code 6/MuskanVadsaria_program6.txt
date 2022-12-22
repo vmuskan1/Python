@@ -1,0 +1,71 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========================== RESTART: H:\program 6.py ==========================
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Six
+
+How many floors the hotel has : 5
+Enter is numbers of rooms on floor 1
+10
+Rooms on floor 1 : 10
+rooms in use? 5
+Enter is numbers of rooms on floor 2
+12
+Rooms on floor 2 : 12
+rooms in use? 11
+Enter is numbers of rooms on floor 3
+8
+Rooms on floor 3 : 8
+rooms in use? 4
+Enter is numbers of rooms on floor 4
+10
+Rooms on floor 4 : 10
+rooms in use? 0
+Enter is numbers of rooms on floor 5
+12
+Rooms on floor 5 : 12
+rooms in use? 8
+
+Total Rooms : 52
+Rooms Occupied : 28
+Rooms Unoccupied : 24
+percentage is:53.85%
+>>> 
+========================== RESTART: H:\program 6.py ==========================
+Name:     Muskan Vadsaria
+Course:   Programming Fundamentals I
+Program:  Six
+
+How many floors the hotel has : 6
+Enter is numbers of rooms on floor 1
+12
+Rooms on floor 1 : 12
+rooms in use? 8
+Enter is numbers of rooms on floor 2
+11
+Rooms on floor 2 : 11
+rooms in use? 11
+Enter is numbers of rooms on floor 3
+10
+Rooms on floor 3 : 10
+rooms in use? 5
+Enter is numbers of rooms on floor 4
+10
+Rooms on floor 4 : 10
+rooms in use? 3
+Enter is numbers of rooms on floor 5
+9
+Rooms on floor 5 : 9
+rooms in use? 2
+Enter is numbers of rooms on floor 6
+10
+Rooms on floor 6 : 10
+rooms in use? 0
+
+Total Rooms : 62
+Rooms Occupied : 29
+Rooms Unoccupied : 33
+percentage is:46.77%
+>>> 
