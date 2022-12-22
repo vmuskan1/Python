@@ -1,0 +1,74 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Muskan Vadsaria\Desktop\College\Computer science\10\MuskanVadsaria_program10.py 
+Name:     <Muskan Vadsaria>
+Course:   Programming Fundamentals I
+Program:  Ten
+
+   Account #        Income         Members
+      1042         12180.06           3
+      1062         13240.45           2
+      1327         19800.56           2
+      1483         22458.23           7
+      1900         17000.09           3
+      2112         18125.00           4
+      2345         15623.00           2
+      3210          3200.00           1
+      3600         39500.00           5
+      3601         11970.00           2
+      4724          8900.00           3
+      6217         45000.70           2
+      9280          6200.00           1
+      1000         31000.00           3
+      1200         36000.00           2
+      5601         51970.00           9
+      5724         66900.00           3
+      5217         10002.68           2
+      5280         70000.00           1
+      5000        100000.00           6
+      5200         25000.40           3
+      5230        120000.00           6
+      6641         85000.00           7
+      7000         45500.00           4
+      7100         56500.00           3
+      8110        110005.90           8
+      9101         67590.40           6
+
+Average household income is: $41061.76
+
+Average household income is: $41061.76
+
+   Above Average
+Account #	Income
+--------------------------
+6217		$45000.70
+5601		$51970.00
+5724		$66900.00
+5280		$70000.00
+5000		$100000.00
+5230		$120000.00
+6641		$85000.00
+7000		$45500.00
+7100		$56500.00
+8110		$110005.90
+9101		$67590.40
+
+     Below Average
+Account #	Income
+--------------------------
+1042		$12180.06
+1062		$13240.45
+1483		$22458.23
+1900		$17000.09
+2112		$18125.00
+2345		$15623.00
+3210		$3200.00
+3601		$11970.00
+4724		$8900.00
+9280		$6200.00
+5217		$10002.68
+
+The percentage of households below the 2018 United States’
+Contiguous States poverty level is:  40.74%
+>>> 
