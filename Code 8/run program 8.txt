@@ -1,0 +1,40 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Muskan Vadsaria\Desktop\College\Computer science\program 8.py 
+Enter coefficient A: 1
+Enter coefficient B: 2
+Enter coefficient C: -8
+
+Discriminant is:  36.0
+The two solutions are :
+x = 2.00  and
+x = -4.00
+
+Enter the  coefficient A: 1
+Enter the  coefficient B: -12
+Enter the  coefficient C: 36
+
+Discriminant is:  0.0
+The equation only has one solution:
+x = 6.00
+
+Enter the  coefficient A: 2
+Enter the  coefficient B: 9
+Enter the  coefficient C: -5
+
+Discriminant is:  121.0
+The two solutions are :
+x = 0.50  and
+x = -5.00
+
+Enter the  coefficient A: 4
+Enter the  coefficient B: 6
+Enter the  coefficient C: 20
+
+Discriminant is:  -284.0
+The two solutions are:
+x = -0.75+2.11j  and
+x = -0.75-2.11j
+
+Enter the  coefficient A: 
