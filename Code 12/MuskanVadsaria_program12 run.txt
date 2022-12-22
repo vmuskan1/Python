@@ -1,0 +1,47 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================== RESTART: H:\MuskanVadsaria_pragram12.py ==================
+Enter employee name: John Doe
+Employee's hourly pay rate: $35.10
+Enter no's of hours worked per week seperate by having comma: 40,30,40,35
+Name: John Doe
+Regular Hoours: 145.0
+Overtime Hours: 0
+Total Hours: 145.0
+Pay Rate: $35.10
+Monthly Regular Pay: $5089.50
+Monthly Overtime Pay: $0.00
+Monthly Gross Pay: $5089.50
+Monthly  Taxes: $1425.06
+Monthly Net Pay: $3664.44
+
+Enter employee name: Jane Doe
+Employee's hourly pay rate: $37.20
+Enter no's of hours worked per week seperate by having comma: 40,40,40,40
+Name: Jane Doe
+Regular Hoours: 160.0
+Overtime Hours: 0
+Total Hours: 160.0
+Pay Rate: $37.20
+Monthly Regular Pay: $5952.00
+Monthly Overtime Pay: $0.00
+Monthly Gross Pay: $5952.00
+Monthly  Taxes: $1666.56
+Monthly Net Pay: $4285.44
+
+Enter employee name: Muskan Vadsaria
+Employee's hourly pay rate: $65.50
+Enter no's of hours worked per week seperate by having comma: 50,35,40,55
+Name: Muskan Vadsaria
+Regular Hoours: 155.0
+Overtime Hours: 25.0
+Total Hours: 180.0
+Pay Rate: $65.50
+Monthly Regular Pay: $10152.50
+Monthly Overtime Pay: $2456.25
+Monthly Gross Pay: $12608.75
+Monthly  Taxes: $4539.15
+Monthly Net Pay: $8069.60
+
+Enter employee name: 
